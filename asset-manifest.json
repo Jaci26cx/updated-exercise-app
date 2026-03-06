@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Jaci26cx/updated-exercise-app/static/css/main.f855e6bc.css",
+    "main.js": "/Jaci26cx/updated-exercise-app/static/js/main.4473909f.js",
+    "static/js/453.4bb9c13b.chunk.js": "/Jaci26cx/updated-exercise-app/static/js/453.4bb9c13b.chunk.js",
+    "index.html": "/Jaci26cx/updated-exercise-app/index.html",
+    "main.f855e6bc.css.map": "/Jaci26cx/updated-exercise-app/static/css/main.f855e6bc.css.map",
+    "main.4473909f.js.map": "/Jaci26cx/updated-exercise-app/static/js/main.4473909f.js.map",
+    "453.4bb9c13b.chunk.js.map": "/Jaci26cx/updated-exercise-app/static/js/453.4bb9c13b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.4473909f.js"
+  ]
+}
